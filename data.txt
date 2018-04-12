@@ -1,0 +1,293 @@
+< class 'tweepy.models.Status' >
+	Status(contributors = None, truncated = True, text = u 'El Real Madrid volver\xe1 este fin de semana a La Rosaleda, donde consigui\xf3 su \xfaltimo t\xedtulo de #LaLiga... \U0001f3c6\u2026 https://t.co/NbF6rCTxBr', is_quote_status = False, in_reply_to_status_id = None, id = 984305109835374592, favorite_count = 570, _api = < tweepy.api.API object at 0x7f5f682b6d50 > , author = User(follow_request_sent = False, has_extended_profile = False, profile_use_background_image = True, _json = {
+		u 'follow_request_sent': False,
+		u 'has_extended_profile': False,
+		u 'profile_use_background_image': True,
+		u 'default_profile_image': False,
+		u 'id': 423384542,
+		u 'profile_background_image_url_https': u 'https://pbs.twimg.com/profile_background_images/694543091781373953/k-IjV1re.jpg',
+		u 'verified': True,
+		u 'translator_type': u 'regular',
+		u 'profile_text_color': u '333333',
+		u 'profile_image_url_https': u 'https://pbs.twimg.com/profile_images/926033785250107392/XjVBsla4_normal.jpg',
+		u 'profile_sidebar_fill_color': u 'DDEEF6',
+		u 'entities': {
+			u 'url': {
+				u 'urls': [{
+					u 'url': u 'https://t.co/a31mmQ1p1D',
+					u 'indices': [0, 23],
+					u 'expanded_url': u 'http://www.laliga.es/',
+					u 'display_url': u 'laliga.es'
+				}]
+			},
+			u 'description': {
+				u 'urls': [{
+					u 'url': u 'https://t.co/pmD6zV9KDU',
+					u 'indices': [90, 113],
+					u 'expanded_url': u 'http://facebook.com/laliga',
+					u 'display_url': u 'facebook.com/laliga'
+				}, {
+					u 'url': u 'https://t.co/PUVgXtmqlg',
+					u 'indices': [116, 139],
+					u 'expanded_url': u 'http://Instagram.com/laliga',
+					u 'display_url': u 'Instagram.com/laliga'
+				}]
+			}
+		},
+		u 'followers_count': 3571982,
+		u 'profile_sidebar_border_color': u 'FFFFFF',
+		u 'id_str': u '423384542',
+		u 'profile_background_color': u '3B94D9',
+		u 'listed_count': 5427,
+		u 'is_translation_enabled': False,
+		u 'utc_offset': 7200,
+		u 'statuses_count': 98880,
+		u 'description': u 'Twitter oficial de LaLiga Santander y LaLiga 1l2l3 | @LaLigaEN | @LaLigaArab | @LaLigaFRA https://t.co/pmD6zV9KDU | https://t.co/PUVgXtmqlg',
+		u 'friends_count': 820,
+		u 'location': u '',
+		u 'profile_link_color': u '3B94D9',
+		u 'profile_image_url': u 'http://pbs.twimg.com/profile_images/926033785250107392/XjVBsla4_normal.jpg',
+		u 'following': True,
+		u 'geo_enabled': True,
+		u 'profile_banner_url': u 'https://pbs.twimg.com/profile_banners/423384542/1523119930',
+		u 'profile_background_image_url': u 'http://pbs.twimg.com/profile_background_images/694543091781373953/k-IjV1re.jpg',
+		u 'screen_name': u 'LaLiga',
+		u 'lang': u 'es',
+		u 'profile_background_tile': False,
+		u 'favourites_count': 7695,
+		u 'name': u 'LaLiga',
+		u 'notifications': False,
+		u 'url': u 'https://t.co/a31mmQ1p1D',
+		u 'created_at': u 'Mon Nov 28 12:48:40 +0000 2011',
+		u 'contributors_enabled': False,
+		u 'time_zone': u 'Madrid',
+		u 'protected': False,
+		u 'default_profile': False,
+		u 'is_translator': False
+	}, time_zone = u 'Madrid', id = 423384542, description = u 'Twitter oficial de LaLiga Santander y LaLiga 1l2l3 | @LaLigaEN | @LaLigaArab | @LaLigaFRA https://t.co/pmD6zV9KDU | https://t.co/PUVgXtmqlg', _api = < tweepy.api.API object at 0x7f5f682b6d50 > , verified = True, profile_text_color = u '333333', profile_image_url_https = u 'https://pbs.twimg.com/profile_images/926033785250107392/XjVBsla4_normal.jpg', profile_sidebar_fill_color = u 'DDEEF6', is_translator = False, geo_enabled = True, entities = {
+		u 'url': {
+			u 'urls': [{
+				u 'url': u 'https://t.co/a31mmQ1p1D',
+				u 'indices': [0, 23],
+				u 'expanded_url': u 'http://www.laliga.es/',
+				u 'display_url': u 'laliga.es'
+			}]
+		},
+		u 'description': {
+			u 'urls': [{
+				u 'url': u 'https://t.co/pmD6zV9KDU',
+				u 'indices': [90, 113],
+				u 'expanded_url': u 'http://facebook.com/laliga',
+				u 'display_url': u 'facebook.com/laliga'
+			}, {
+				u 'url': u 'https://t.co/PUVgXtmqlg',
+				u 'indices': [116, 139],
+				u 'expanded_url': u 'http://Instagram.com/laliga',
+				u 'display_url': u 'Instagram.com/laliga'
+			}]
+		}
+	}, followers_count = 3571982, protected = False, id_str = u '423384542', default_profile_image = False, listed_count = 5427, lang = u 'es', utc_offset = 7200, statuses_count = 98880, profile_background_color = u '3B94D9', friends_count = 820, profile_link_color = u '3B94D9', profile_image_url = u 'http://pbs.twimg.com/profile_images/926033785250107392/XjVBsla4_normal.jpg', notifications = False, default_profile = False, profile_background_image_url_https = u 'https://pbs.twimg.com/profile_background_images/694543091781373953/k-IjV1re.jpg', profile_banner_url = u 'https://pbs.twimg.com/profile_banners/423384542/1523119930', profile_background_image_url = u 'http://pbs.twimg.com/profile_background_images/694543091781373953/k-IjV1re.jpg', name = u 'LaLiga', is_translation_enabled = False, profile_background_tile = False, favourites_count = 7695, screen_name = u 'LaLiga', url = u 'https://t.co/a31mmQ1p1D', created_at = datetime.datetime(2011, 11, 28, 12, 48, 40), contributors_enabled = False, location = u '', profile_sidebar_border_color = u 'FFFFFF', translator_type = u 'regular', following = True), _json = {
+		u 'contributors': None,
+		u 'truncated': True,
+		u 'text': u 'El Real Madrid volver\xe1 este fin de semana a La Rosaleda, donde consigui\xf3 su \xfaltimo t\xedtulo de #LaLiga... \U0001f3c6\u2026 https://t.co/NbF6rCTxBr',
+		u 'is_quote_status': False,
+		u 'in_reply_to_status_id': None,
+		u 'id': 984305109835374592,
+		u 'favorite_count': 570,
+		u 'source': u '<a href="https://studio.twitter.com" rel="nofollow">Media Studio</a>',
+		u 'retweeted': False,
+		u 'coordinates': None,
+		u 'entities': {
+			u 'symbols': [],
+			u 'user_mentions': [],
+			u 'hashtags': [{
+				u 'indices': [93, 100],
+				u 'text': u 'LaLiga'
+			}],
+			u 'urls': [{
+				u 'url': u 'https://t.co/NbF6rCTxBr',
+				u 'indices': [107, 130],
+				u 'expanded_url': u 'https://twitter.com/i/web/status/984305109835374592',
+				u 'display_url': u 'twitter.com/i/web/status/9\u2026'
+			}]
+		},
+		u 'in_reply_to_screen_name': None,
+		u 'in_reply_to_user_id': None,
+		u 'retweet_count': 99,
+		u 'id_str': u '984305109835374592',
+		u 'favorited': False,
+		u 'user': {
+			u 'follow_request_sent': False,
+			u 'has_extended_profile': False,
+			u 'profile_use_background_image': True,
+			u 'default_profile_image': False,
+			u 'id': 423384542,
+			u 'profile_background_image_url_https': u 'https://pbs.twimg.com/profile_background_images/694543091781373953/k-IjV1re.jpg',
+			u 'verified': True,
+			u 'translator_type': u 'regular',
+			u 'profile_text_color': u '333333',
+			u 'profile_image_url_https': u 'https://pbs.twimg.com/profile_images/926033785250107392/XjVBsla4_normal.jpg',
+			u 'profile_sidebar_fill_color': u 'DDEEF6',
+			u 'entities': {
+				u 'url': {
+					u 'urls': [{
+						u 'url': u 'https://t.co/a31mmQ1p1D',
+						u 'indices': [0, 23],
+						u 'expanded_url': u 'http://www.laliga.es/',
+						u 'display_url': u 'laliga.es'
+					}]
+				},
+				u 'description': {
+					u 'urls': [{
+						u 'url': u 'https://t.co/pmD6zV9KDU',
+						u 'indices': [90, 113],
+						u 'expanded_url': u 'http://facebook.com/laliga',
+						u 'display_url': u 'facebook.com/laliga'
+					}, {
+						u 'url': u 'https://t.co/PUVgXtmqlg',
+						u 'indices': [116, 139],
+						u 'expanded_url': u 'http://Instagram.com/laliga',
+						u 'display_url': u 'Instagram.com/laliga'
+					}]
+				}
+			},
+			u 'followers_count': 3571982,
+			u 'profile_sidebar_border_color': u 'FFFFFF',
+			u 'id_str': u '423384542',
+			u 'profile_background_color': u '3B94D9',
+			u 'listed_count': 5427,
+			u 'is_translation_enabled': False,
+			u 'utc_offset': 7200,
+			u 'statuses_count': 98880,
+			u 'description': u 'Twitter oficial de LaLiga Santander y LaLiga 1l2l3 | @LaLigaEN | @LaLigaArab | @LaLigaFRA https://t.co/pmD6zV9KDU | https://t.co/PUVgXtmqlg',
+			u 'friends_count': 820,
+			u 'location': u '',
+			u 'profile_link_color': u '3B94D9',
+			u 'profile_image_url': u 'http://pbs.twimg.com/profile_images/926033785250107392/XjVBsla4_normal.jpg',
+			u 'following': True,
+			u 'geo_enabled': True,
+			u 'profile_banner_url': u 'https://pbs.twimg.com/profile_banners/423384542/1523119930',
+			u 'profile_background_image_url': u 'http://pbs.twimg.com/profile_background_images/694543091781373953/k-IjV1re.jpg',
+			u 'screen_name': u 'LaLiga',
+			u 'lang': u 'es',
+			u 'profile_background_tile': False,
+			u 'favourites_count': 7695,
+			u 'name': u 'LaLiga',
+			u 'notifications': False,
+			u 'url': u 'https://t.co/a31mmQ1p1D',
+			u 'created_at': u 'Mon Nov 28 12:48:40 +0000 2011',
+			u 'contributors_enabled': False,
+			u 'time_zone': u 'Madrid',
+			u 'protected': False,
+			u 'default_profile': False,
+			u 'is_translator': False
+		},
+		u 'geo': None,
+		u 'in_reply_to_user_id_str': None,
+		u 'possibly_sensitive': False,
+		u 'possibly_sensitive_appealable': False,
+		u 'lang': u 'es',
+		u 'created_at': u 'Thu Apr 12 05:40:00 +0000 2018',
+		u 'in_reply_to_status_id_str': None,
+		u 'place': None
+	}, coordinates = None, entities = {
+		u 'symbols': [],
+		u 'user_mentions': [],
+		u 'hashtags': [{
+			u 'indices': [93, 100],
+			u 'text': u 'LaLiga'
+		}],
+		u 'urls': [{
+			u 'url': u 'https://t.co/NbF6rCTxBr',
+			u 'indices': [107, 130],
+			u 'expanded_url': u 'https://twitter.com/i/web/status/984305109835374592',
+			u 'display_url': u 'twitter.com/i/web/status/9\u2026'
+		}]
+	}, in_reply_to_screen_name = None, id_str = u '984305109835374592', retweet_count = 99, in_reply_to_user_id = None, favorited = False, source_url = u 'https://studio.twitter.com', user = User(follow_request_sent = False, has_extended_profile = False, profile_use_background_image = True, _json = {
+		u 'follow_request_sent': False,
+		u 'has_extended_profile': False,
+		u 'profile_use_background_image': True,
+		u 'default_profile_image': False,
+		u 'id': 423384542,
+		u 'profile_background_image_url_https': u 'https://pbs.twimg.com/profile_background_images/694543091781373953/k-IjV1re.jpg',
+		u 'verified': True,
+		u 'translator_type': u 'regular',
+		u 'profile_text_color': u '333333',
+		u 'profile_image_url_https': u 'https://pbs.twimg.com/profile_images/926033785250107392/XjVBsla4_normal.jpg',
+		u 'profile_sidebar_fill_color': u 'DDEEF6',
+		u 'entities': {
+			u 'url': {
+				u 'urls': [{
+					u 'url': u 'https://t.co/a31mmQ1p1D',
+					u 'indices': [0, 23],
+					u 'expanded_url': u 'http://www.laliga.es/',
+					u 'display_url': u 'laliga.es'
+				}]
+			},
+			u 'description': {
+				u 'urls': [{
+					u 'url': u 'https://t.co/pmD6zV9KDU',
+					u 'indices': [90, 113],
+					u 'expanded_url': u 'http://facebook.com/laliga',
+					u 'display_url': u 'facebook.com/laliga'
+				}, {
+					u 'url': u 'https://t.co/PUVgXtmqlg',
+					u 'indices': [116, 139],
+					u 'expanded_url': u 'http://Instagram.com/laliga',
+					u 'display_url': u 'Instagram.com/laliga'
+				}]
+			}
+		},
+		u 'followers_count': 3571982,
+		u 'profile_sidebar_border_color': u 'FFFFFF',
+		u 'id_str': u '423384542',
+		u 'profile_background_color': u '3B94D9',
+		u 'listed_count': 5427,
+		u 'is_translation_enabled': False,
+		u 'utc_offset': 7200,
+		u 'statuses_count': 98880,
+		u 'description': u 'Twitter oficial de LaLiga Santander y LaLiga 1l2l3 | @LaLigaEN | @LaLigaArab | @LaLigaFRA https://t.co/pmD6zV9KDU | https://t.co/PUVgXtmqlg',
+		u 'friends_count': 820,
+		u 'location': u '',
+		u 'profile_link_color': u '3B94D9',
+		u 'profile_image_url': u 'http://pbs.twimg.com/profile_images/926033785250107392/XjVBsla4_normal.jpg',
+		u 'following': True,
+		u 'geo_enabled': True,
+		u 'profile_banner_url': u 'https://pbs.twimg.com/profile_banners/423384542/1523119930',
+		u 'profile_background_image_url': u 'http://pbs.twimg.com/profile_background_images/694543091781373953/k-IjV1re.jpg',
+		u 'screen_name': u 'LaLiga',
+		u 'lang': u 'es',
+		u 'profile_background_tile': False,
+		u 'favourites_count': 7695,
+		u 'name': u 'LaLiga',
+		u 'notifications': False,
+		u 'url': u 'https://t.co/a31mmQ1p1D',
+		u 'created_at': u 'Mon Nov 28 12:48:40 +0000 2011',
+		u 'contributors_enabled': False,
+		u 'time_zone': u 'Madrid',
+		u 'protected': False,
+		u 'default_profile': False,
+		u 'is_translator': False
+	}, time_zone = u 'Madrid', id = 423384542, description = u 'Twitter oficial de LaLiga Santander y LaLiga 1l2l3 | @LaLigaEN | @LaLigaArab | @LaLigaFRA https://t.co/pmD6zV9KDU | https://t.co/PUVgXtmqlg', _api = < tweepy.api.API object at 0x7f5f682b6d50 > , verified = True, profile_text_color = u '333333', profile_image_url_https = u 'https://pbs.twimg.com/profile_images/926033785250107392/XjVBsla4_normal.jpg', profile_sidebar_fill_color = u 'DDEEF6', is_translator = False, geo_enabled = True, entities = {
+		u 'url': {
+			u 'urls': [{
+				u 'url': u 'https://t.co/a31mmQ1p1D',
+				u 'indices': [0, 23],
+				u 'expanded_url': u 'http://www.laliga.es/',
+				u 'display_url': u 'laliga.es'
+			}]
+		},
+		u 'description': {
+			u 'urls': [{
+				u 'url': u 'https://t.co/pmD6zV9KDU',
+				u 'indices': [90, 113],
+				u 'expanded_url': u 'http://facebook.com/laliga',
+				u 'display_url': u 'facebook.com/laliga'
+			}, {
+				u 'url': u 'https://t.co/PUVgXtmqlg',
+				u 'indices': [116, 139],
+				u 'expanded_url': u 'http://Instagram.com/laliga',
+				u 'display_url': u 'Instagram.com/laliga'
+			}]
+		}
+	}, followers_count = 3571982, protected = False, id_str = u '423384542', default_profile_image = False, listed_count = 5427, lang = u 'es', utc_offset = 7200, statuses_count = 98880, profile_background_color = u '3B94D9', friends_count = 820, profile_link_color = u '3B94D9', profile_image_url = u 'http://pbs.twimg.com/profile_images/926033785250107392/XjVBsla4_normal.jpg', notifications = False, default_profile = False, profile_background_image_url_https = u 'https://pbs.twimg.com/profile_background_images/694543091781373953/k-IjV1re.jpg', profile_banner_url = u 'https://pbs.twimg.com/profile_banners/423384542/1523119930', profile_background_image_url = u 'http://pbs.twimg.com/profile_background_images/694543091781373953/k-IjV1re.jpg', name = u 'LaLiga', is_translation_enabled = False, profile_background_tile = False, favourites_count = 7695, screen_name = u 'LaLiga', url = u 'https://t.co/a31mmQ1p1D', created_at = datetime.datetime(2011, 11, 28, 12, 48, 40), contributors_enabled = False, location = u '', profile_sidebar_border_color = u 'FFFFFF', translator_type = u 'regular', following = True), geo = None, in_reply_to_user_id_str = None, possibly_sensitive = False, possibly_sensitive_appealable = False, lang = u 'es', created_at = datetime.datetime(2018, 4, 12, 5, 40), in_reply_to_status_id_str = None, place = None, source = u 'Media Studio', retweeted = False)
