@@ -16,8 +16,7 @@ api = tweepy.API(auth)
 class CustomStreamListener(tweepy.StreamListener):
 
     def on_status(self, status):
-        
-        print ("--------------------------------------------------------------------------------------------------------------") 
+
         with open('OutputStreaming.csv', 'a') as f:
 
             writer = csv.writer(f)
